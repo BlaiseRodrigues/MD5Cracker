@@ -74,7 +74,7 @@ if ( isset($_GET['md5']) ) {
 <li><a href="makecode.php">MD5 Code Maker</a></li>
 <li><a
 href="#"
-target="_blank">Source code for this application</a></li>
+target="_blank">Source code for this application.</a></li>
 </ul>
 </body>
 </html>
